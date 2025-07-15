@@ -1,1 +1,1 @@
-# learn-rust
+# Journal About How I Learn Rust
